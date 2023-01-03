@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yinghua Zhou!
-- 👀 I’m interested in Algorithms/Data Structures and Software Development.
+- 👀 I’m interested in Algorithms/Data Structures and full stack Software Development.
 - 🌱 I’m currently learning AI and expanding my Software Engineering skills.
 - 📫 Please reach me via my website, linkedin or email if interested!
 
