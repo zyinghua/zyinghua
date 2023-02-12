@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yinghua Zhou!
-- 👀 I’m interested in Algorithms/Data Structures and full stack Software Development.
-- 🌱 I’m currently learning AI and expanding my Software Engineering skills.
+- 👀 I’m interested in Algorithms/Data Structures and software engineering.
+- 🌱 I’m currently studying Artificial Intelligence at the University of Melbourne.
 - 📫 Please reach me via my website, linkedin or email if interested!
 
 <!---
