@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yinghua Zhou!
-- 👀 I’m interested in Artificial Intelligence and Algorithms/Data Structures.
+- 👀 I’m interested in Deep Learning!
 - 🌱 I’m currently doing CS Honours study focusing on AI at University of Sydney.
 
 <!---
