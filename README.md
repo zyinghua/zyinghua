@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yinghua Zhou!
+- 👋 Hi, Welcome!
 - 🌱 I’m currently doing CS Honours study with a reaserch focus on Computer Vision at University of Sydney.
 
 <!---
